@@ -1,0 +1,4 @@
+Projeto simples sobre um quizz de programação. 
+Divirta-se :D
+
+Feito de Js, html e css puro.
